@@ -134,3 +134,5 @@ while True:
 # Release the camera and destroy all the windows
 cam.release()
 cv2.destroyAllWindows()
+
+   
