@@ -13,5 +13,6 @@ inside home. For Outdoor, they will receive messages through Blynk app. By imple
 take care of them and do our works as well.
 Recognition of gestures and the Hardware setup is shown below:
 ![gestures](https://user-images.githubusercontent.com/93436862/233553656-191f264f-4970-41d6-b62c-915d416eb9fb.jpeg)
+![predictionofsorry](https://user-images.githubusercontent.com/93436862/233556955-4b548453-8649-4de3-a10f-5e1c4a8954d7.jpeg)
 ![Hardwaresetup](https://user-images.githubusercontent.com/93436862/233556631-3115f12a-8878-452f-a098-2c19ee19d074.jpeg)
 
