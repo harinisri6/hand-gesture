@@ -11,5 +11,6 @@ speech. It also rings the buzzer in case of emergency. . Our model is also desig
 both indoor and outdoor in case of emergency. For indoor, we have designed buzzer to alert the people 
 inside home. For Outdoor, they will receive messages through Blynk app. By implementing this, we can 
 take care of them and do our works as well.
+Recognition of gestures is shown below:
 ![gestures](https://user-images.githubusercontent.com/93436862/233553656-191f264f-4970-41d6-b62c-915d416eb9fb.jpeg)
 
